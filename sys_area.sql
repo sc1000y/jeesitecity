@@ -4,8 +4,8 @@
  Source Server         : mysql
  Source Server Type    : MySQL
  Source Server Version : 50717
- Source Host           : localhost:3306
- Source Schema         : profess
+ Source Host           : 
+ Source Schema         : 
 
  Target Server Type    : MySQL
  Target Server Version : 50717
